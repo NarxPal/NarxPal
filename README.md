@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-wip
+# Projects
+
+- [oh_my_piss](https://github.com/NarxPal/oh_my_piss)
+- [skim](https://github.com/NarxPal/skim)
+
+
+
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NarxPal&theme="> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarxPal&theme=">
