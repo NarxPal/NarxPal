@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # Projects
 
-- [oh_my_piss](https://github.com/NarxPal/oh_my_piss)
-- [skim](https://github.com/NarxPal/skim)
+- [oh_my_piss](https://github.com/NarxPal/oh_my_piss) - shell written in rust
+- [skim](https://github.com/NarxPal/skim) - video editor for short form content
 
 
 
